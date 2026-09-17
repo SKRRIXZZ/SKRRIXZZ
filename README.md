@@ -53,14 +53,6 @@ I build small, useful Windows tools — lightweight, multi-language, and packed 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKRRIXZZ&show_icons=true&hide_title=true&count_private=true&theme=dark" />
-</p>
-
----
-
 <p align="center">
   <sub>⭐ If any of my tools saved you a minute — drop a star, it really helps.</sub>
 </p>
