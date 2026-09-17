@@ -52,6 +52,9 @@ I build small, useful Windows tools — lightweight, multi-language, and packed 
 - 📖 Full installation docs in English **and** Russian
 
 ---
+<p align="center">
+  <sub>⭐ If any of my tools saved you a minute — drop a star, it really helps.</sub>
+</p>
 ---
 
 # 👋 Привет, я SKRRIXZZ
@@ -99,7 +102,6 @@ I build small, useful Windows tools — lightweight, multi-language, and packed 
 - 📖 Полная документация по установке на английском **и** русском
 
 ---
-
 <p align="center">
   <sub>⭐ Если какая-то из моих утилит сэкономила тебе минуту — поставь звезду, это реально помогает.</sub>
 </p>
