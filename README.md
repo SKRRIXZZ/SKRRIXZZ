@@ -52,7 +52,54 @@ I build small, useful Windows tools — lightweight, multi-language, and packed 
 - 📖 Full installation docs in English **and** Russian
 
 ---
+---
+
+# 👋 Привет, я SKRRIXZZ
+
+Делаю небольшие полезные утилиты для Windows — легковесные, многоязычные, без лишнего мусора.
+
+---
+
+## 🧰 Мои приложения
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌤 <a href="https://github.com/SKRRIXZZ/tray-weather">Погода в трее</a></h3>
+      <p>Температура прямо на иконке в системном трее.<br>
+      Прогноз на 3/5/7/10 дней, уведомления о дожде, определение города по IP.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏻ <a href="https://github.com/SKRRIXZZ/shutdown-timer">Таймер выключения</a></h3>
+      <p>Таймер выключения / перезагрузки / сна / гибернации ПК.<br>
+      Плавающий виджет, быстрые пресеты, глобальные хоткеи.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/SKRRIXZZ/mini-translator">Мини-переводчик</a></h3>
+      <p>Переводчик буфера обмена с глобальным хоткеем.<br>
+      Нажал <code>Ctrl+C</code> → <code>Ctrl+Shift+Q</code> — готово.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⬇ <a href="https://github.com/SKRRIXZZ/video-music-downloader">Скачиватель видео и музыки</a></h3>
+      <p>GUI-скачиватель на базе <code>yt-dlp</code>.<br>
+      Режимы видео и музыки, превью, история, поддержка трея.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Что ты здесь найдёшь
+
+- 🐍 Чистый Python — без тяжёлых фреймворков и веб-мусора
+- 🌍 Каждое приложение переведено на **20 языков**
+- 🌗 Тёмная / светлая тема, трей, автозапуск — всё из коробки
+- 📖 Полная документация по установке на английском **и** русском
+
+---
 
 <p align="center">
-  <sub>⭐ If any of my tools saved you a minute — drop a star, it really helps.</sub>
+  <sub>⭐ Если какая-то из моих утилит сэкономила тебе минуту — поставь звезду, это реально помогает.</sub>
 </p>
